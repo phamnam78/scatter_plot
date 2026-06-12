@@ -10,4 +10,5 @@ Example 1: Scatter-QQ plot for WAM-SAT for the North Sea
 
 Example 2: Scatter-QQ plot for WAM-BUOY for the North Sea
 
-<img width="432" height="395" alt="image" src="https://github.com/user-attachments/assets/59730fcb-4f76-457f-ad5c-fb77ad3190aa" />
+<img width="431" height="393" alt="image" src="https://github.com/user-attachments/assets/1927757e-ac7a-431e-9a38-6bc32bbcf1bc" />
+
