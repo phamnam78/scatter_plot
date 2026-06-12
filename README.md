@@ -1,4 +1,4 @@
-These scripts can be used for WAM model validation against satellite and buoy data
+These scripts can be used for WAM model validation against satellite and buoy data. Three steps are needed as,
 1. Pair data bweeteen model output and obsesrvations
 2. Calculate stastical indexes (mean, std, bias, rmse, SI, HH, SKILL, CORR,...)
 3. Plot results (scatter, qq, linear regression) 
