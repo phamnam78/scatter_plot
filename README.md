@@ -1,6 +1,6 @@
 These scripts can be used for WAM model validation against satellite and buoy data
 1. Pair data bweeteen model output and obsesrvations
-2. Calculate stastical indexes (bias, rmse, SI, HH, SKILL, CORR,...)
+2. Calculate stastical indexes (mean, std, bias, rmse, SI, HH, SKILL, CORR,...)
 3. Plot results (scatter, qq, linear regression) 
 
 Example 1: Scatter-QQ plot for WAM-SAT for the North Sea
